@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/optimaxdev-test/static/css/main.5a092209.chunk.css",
+    "main.js": "/optimaxdev-test/static/js/main.9c5e954f.chunk.js",
+    "main.js.map": "/optimaxdev-test/static/js/main.9c5e954f.chunk.js.map",
+    "runtime-main.js": "/optimaxdev-test/static/js/runtime-main.2a4c7788.js",
+    "runtime-main.js.map": "/optimaxdev-test/static/js/runtime-main.2a4c7788.js.map",
+    "static/js/2.fde2d479.chunk.js": "/optimaxdev-test/static/js/2.fde2d479.chunk.js",
+    "static/js/2.fde2d479.chunk.js.map": "/optimaxdev-test/static/js/2.fde2d479.chunk.js.map",
+    "static/js/3.e16ea09c.chunk.js": "/optimaxdev-test/static/js/3.e16ea09c.chunk.js",
+    "static/js/3.e16ea09c.chunk.js.map": "/optimaxdev-test/static/js/3.e16ea09c.chunk.js.map",
+    "index.html": "/optimaxdev-test/index.html",
+    "static/css/main.5a092209.chunk.css.map": "/optimaxdev-test/static/css/main.5a092209.chunk.css.map",
+    "static/js/2.fde2d479.chunk.js.LICENSE.txt": "/optimaxdev-test/static/js/2.fde2d479.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a4c7788.js",
+    "static/js/2.fde2d479.chunk.js",
+    "static/css/main.5a092209.chunk.css",
+    "static/js/main.9c5e954f.chunk.js"
+  ]
+}
