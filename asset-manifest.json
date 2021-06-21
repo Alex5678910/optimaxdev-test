@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/optimaxdev-test/static/css/main.c3e6d355.chunk.css",
-    "main.js": "/optimaxdev-test/static/js/main.cbfc54f2.chunk.js",
-    "main.js.map": "/optimaxdev-test/static/js/main.cbfc54f2.chunk.js.map",
+    "main.js": "/optimaxdev-test/static/js/main.77724a1c.chunk.js",
+    "main.js.map": "/optimaxdev-test/static/js/main.77724a1c.chunk.js.map",
     "runtime-main.js": "/optimaxdev-test/static/js/runtime-main.2a4c7788.js",
     "runtime-main.js.map": "/optimaxdev-test/static/js/runtime-main.2a4c7788.js.map",
     "static/js/2.fde2d479.chunk.js": "/optimaxdev-test/static/js/2.fde2d479.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2a4c7788.js",
     "static/js/2.fde2d479.chunk.js",
     "static/css/main.c3e6d355.chunk.css",
-    "static/js/main.cbfc54f2.chunk.js"
+    "static/js/main.77724a1c.chunk.js"
   ]
 }
