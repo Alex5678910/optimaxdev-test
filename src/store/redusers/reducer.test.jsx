@@ -1,7 +1,7 @@
 import React from 'react';
 import {reducer} from "./rootReducer";
 import {MenuAction, ActionTypes} from "../../types";
-import {fetchMenu} from "../action-creators/cart";
+import {fetchMenu} from "../action-creators/CartFetch";
 
 describe('menu reducer', () => {
     let elements;

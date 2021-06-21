@@ -30,7 +30,6 @@ code {
 }
 
 button.Del {
-  position: relative;
   display: inline-block;
   width: 2.7em;
   height: 1.5em;
@@ -44,6 +43,7 @@ button.Del {
   border-radius: 5px;
   box-shadow: 0 0 0 60px rgba(0,0,0,0) inset, .1em .1em .2em #800;
   background: linear-gradient(#FB9575, #F45A38 48%, #EA1502 52%, #f02f17);
+  cursor: pointer;
 }
 button.Del:active {
   top: .1em;

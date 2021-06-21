@@ -19,6 +19,9 @@ const FormItem: React.FC = () => {
         setPrice(+event.target.value.slice(0, 5))
     }
 
+    /**
+     * product addition function
+     */
     const addCart = (e: React.SyntheticEvent) => {
         e.preventDefault()
         if (title && price && quantity) {
