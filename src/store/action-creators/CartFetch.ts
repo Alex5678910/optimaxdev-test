@@ -10,7 +10,7 @@ export const fetchMenu = () => {
     return async (dispatch: Dispatch<MenuAction>) => {
         try {
             dispatch({type: ActionTypes.FETCH_MENU})
-            let db = await fetch('http://localhost:3001/menu', {
+            let db = await fetch('https://alex5678910.github.io/optimax-dev-test-json-api/api/db.json', {
                 headers: { 'Content-Type': 'application/json' }
             }).then(res => res.json())
             ;
